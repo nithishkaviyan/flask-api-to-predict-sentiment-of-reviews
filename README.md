@@ -7,7 +7,7 @@ This repository contains code for flask api which wraps the neural network model
 * Convolutional Neural Network (CNN) model
 * LSTM model
 
-This repository does not contain code for training the models. One of the [other repositories] (https://github.com/nithishkaviyan/Sentiment-Analysis-of-Yelp-Reviews) of mine contains detailed code for training. This api uses a pre-trained model and predicts after receiving input through its hosted server.
+This repository does not contain code for training the models. One of the [other repositories](https://github.com/nithishkaviyan/Sentiment-Analysis-of-Yelp-Reviews) of mine contains detailed code for training. This api uses a pre-trained model and predicts after receiving input through its hosted server.
 
 The input must be in json format. A sample input format can be found in sample_request.py file.
 
